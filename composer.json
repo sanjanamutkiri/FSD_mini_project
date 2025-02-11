@@ -1,0 +1,17 @@
+{
+    "name": "aishw/final_offer_letter",
+    "autoload": {
+        "psr-4": {
+            "Aishw\\FinalOfferLetter\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "aishak13",
+            "email": "aishwaryakalshetti13@gmail.com"
+        }
+    ],
+    "require": {
+        "phpmailer/phpmailer": "^6.9"
+    }
+}
